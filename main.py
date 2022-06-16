@@ -1,7 +1,7 @@
 error = False
 try:
     from os import system
-    system("title " + "Webhook Checker")
+    system("title " + "Webhook Checker,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 try:
